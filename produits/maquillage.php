@@ -18,7 +18,7 @@
             <!-- Galerie -->
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
                 <div class="bg-pink-100 rounded-xl p-4 shadow-md">
-                    <img src="https://www.pinterest.com/pin/1091982240897367232/" class="rounded-lg mb-3" alt="Rouge à lèvres">
+                    <img src="https://i.pinimg.com/474x/7e/b5/c3/7eb5c3b552361b82aa2f48e1ac29b5a5.jpg" class="rounded-lg mb-3" alt="Rouge à lèvres">
                     <h2 class="text-lg font-semibold">Rouge à lèvres</h2>
                     <button class="mt-2 bg-pink-500 text-white px-4 py-2 rounded-lg hover:bg-pink-600">Voir</button>
                 </div>
