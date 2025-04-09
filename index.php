@@ -39,7 +39,7 @@
           <!-- Dropdown -->
 
           <div class="absolute left-0 mt-2 w-48 bg-white border rounded shadow-md opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-10">
-            <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Maquillage</a>
+            <a href="produits/maquillage.php" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Maquillage</a>
             <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Soins du visage</a>
             <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Soins corporel</a>
             <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Cheveux</a>
