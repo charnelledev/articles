@@ -83,7 +83,7 @@
       
       <!-- Sous-menu (initialement caché, à rendre interactif via JavaScript) -->
       <div class="mt-2 pl-4 hidden">
-        <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Maquillage</a>
+        <a href="/produits/maquillage.php" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Maquillage</a>
         <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Soins du visage</a>
         <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Soins du corps</a>
         <a href="#" class="block px-4 py-2 text-gray-800 hover:bg-gray-200">Cheveux</a>
