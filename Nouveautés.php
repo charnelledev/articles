@@ -70,63 +70,63 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['ajouter_panier'])) {
 
                 <!-- Produit 3 -->
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/cc/63/6b/cc636b10ef6260da9d7683724e542d92.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src= "https://i.pinimg.com/736x/0e/4c/99/0e4c99a7a8a636cf059b7307159b5727.jpg" alt="Produit 3" class="w-full rounded">
+                    <h3 class="mt-4 text-xl font-bold text-gray-800">vos laces eceptionnelles</h3>
+                    <p class="mt-2 text-gray-600">vous rend confortable et rayonnante.</p>
+                    <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
+                </div>
+                <div class="bg-gray-100 p-6 rounded-lg shadow">
+                    <img src="https://i.pinimg.com/736x/cc/63/6b/cc636b10ef6260da9d7683724e542d92.jpg"alt="Produit 4" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
                     <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/0e/4c/99/0e4c99a7a8a636cf059b7307159b5727.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src="https://i.pinimg.com/736x/bf/72/be/bf72bebaa399e6bb90d6008dcb22a7d0.jpg" alt="Produit 5" class="w-full rounded">
+                    <h3 class="mt-4 text-xl font-bold text-gray-800">vos produit d'onglerie impecable</h3>
+                    <p class="mt-2 text-gray-600">vos produits d'onglerie confortable et bruillant .</p>
+                    <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
+                </div>
+                <div class="bg-gray-100 p-6 rounded-lg shadow">
+                    <img src="https://i.pinimg.com/736x/7d/20/a6/7d20a6e4746a2342a1ac79bffb7e0f74.jpg" alt="Produit 6" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
                     <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/bf/72/be/bf72bebaa399e6bb90d6008dcb22a7d0.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src="https://i.pinimg.com/736x/b6/1e/9f/b61e9f1bc169d0bee1bb62b741c2bc9e.jpg" alt="Produit 7" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
                     <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/7d/20/a6/7d20a6e4746a2342a1ac79bffb7e0f74.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src="https://i.pinimg.com/736x/ac/a5/d0/aca5d0bee71acff017fc2726d10198b2.jpg" alt="Produit 8" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
                     <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/b6/1e/9f/b61e9f1bc169d0bee1bb62b741c2bc9e.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src="https://i.pinimg.com/736x/15/44/c3/1544c3edee8637c5f6b0209ec1393174.jpg" alt="Produit 9" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
                     <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/ac/a5/d0/aca5d0bee71acff017fc2726d10198b2.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src="https://i.pinimg.com/736x/74/fb/f7/74fbf7e773fcf69c2f116574f108ca1b.jpg" alt="Produit 10" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
                     <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/15/44/c3/1544c3edee8637c5f6b0209ec1393174.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src="https://i.pinimg.com/736x/0a/f3/a5/0af3a5b0feffab8ddc5e003884c62423.jpg" alt="Produit 11" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
-                    <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
+                    <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante et naturelle.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
                 <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/74/fb/f7/74fbf7e773fcf69c2f116574f108ca1b.jpg" alt="Produit 3" class="w-full rounded">
+                    <img src="https://i.pinimg.com/736x/0b/0d/f0/0b0df0a2a5546ad7056e65b5b7954788.jpg" alt="Produit 12" class="w-full rounded">
                     <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
-                    <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
-                    <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
-                </div>
-                <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/0a/f3/a5/0af3a5b0feffab8ddc5e003884c62423.jpg" alt="Produit 3" class="w-full rounded">
-                    <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
-                    <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
-                    <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
-                </div>
-                <div class="bg-gray-100 p-6 rounded-lg shadow">
-                    <img src="https://i.pinimg.com/736x/0b/0d/f0/0b0df0a2a5546ad7056e65b5b7954788.jpg" alt="Produit 3" class="w-full rounded">
-                    <h3 class="mt-4 text-xl font-bold text-gray-800">Soin Hydratant Bio</h3>
-                    <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau éclatante.</p>
+                    <p class="mt-2 text-gray-600">Un soin visage naturel pour une peau rayonnante.</p>
                     <a href="#" class="mt-4 inline-block text-blue-600 hover:underline">En savoir plus</a>
                 </div>
             </div>

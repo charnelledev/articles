@@ -8,7 +8,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Menu Mon Compte - ShopBeauty Stores</title>
-  <script src="https://kit.fontawesome.com/a076d05399.js"></script> <!-- Import Font Awesome -->
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script> 
+  <!-- Import Font Awesome -->
 </head>
 <body class="bg-gray-50">
 
